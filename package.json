@@ -1,0 +1,25 @@
+{
+  "name": "randomnames",
+  "version": "1.0.0",
+  "description": "Un programa para enviar nombres",
+  "main": "js/names.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardoapenb/RandomNames-Npm.git"
+  },
+  "keywords": [
+    "prueba",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "Eduardo Apen <'abjosueapen@gmail.com'>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eduardoapenb/RandomNames-Npm/issues"
+  },
+  "homepage": "https://github.com/eduardoapenb/RandomNames-Npm#readme"
+}
